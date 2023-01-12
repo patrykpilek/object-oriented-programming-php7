@@ -8,3 +8,4 @@
 - [x] print the whole object
 - [x] defining and calling methods
 - [x] accessing object properties from methods
+- [x] parameters and return value of methods
