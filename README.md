@@ -14,3 +14,8 @@
 ### Visibility
 
 - [x] visibility
+
+
+### Class Constants
+
+- [x] class constants

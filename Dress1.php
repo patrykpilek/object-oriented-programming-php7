@@ -2,16 +2,21 @@
 
 class Dress
 {
+    const SMALL = "Small";
+    const MEDIUM = "Medium";
+    const LARGE = "Large";
+    public $size;
     public $color = "red";  // The color of the dress
     private $fabric = "linen"; // The fabric of the dress
-    private $design = "Slim Fit Blazer";//The design of the dress
+    private $design = "Shift Dress"; // The design of the dress
 
     public function displayInfo()
     {
         echo "The info about the dress.";
-        echo $this->color . "</br>";
-        echo $this->fabric . "</br>";
-        echo $this->design . "</br>";
+        echo $this->color;
+        echo $this->fabric;
+        echo $this->design;
+        echo self::MEDIUM;
     }
 
     private function helloWorld($number1, $number2)
@@ -21,9 +26,7 @@ class Dress
 }
 
 $dressObj = new Dress();
-
-echo $dressObj->color . "</br>";
-$dressObj->displayInfo();
+$dressObj->size = Dress::MEDIUM; 
 
 
 
