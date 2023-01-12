@@ -7,3 +7,4 @@
 - [x] creating and accessing properties
 - [x] print the whole object
 - [x] defining and calling methods
+- [x] accessing object properties from methods
