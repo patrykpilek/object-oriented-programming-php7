@@ -19,3 +19,7 @@
 ### Class Constants
 
 - [x] class constants
+
+### Data Encapsulation
+
+- [x] data encapsulation
