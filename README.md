@@ -6,3 +6,4 @@
 - [x] creating classes and objects in PHP
 - [x] creating and accessing properties
 - [x] print the whole object
+- [x] defining and calling methods
