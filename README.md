@@ -23,3 +23,7 @@
 ### Data Encapsulation
 
 - [x] data encapsulation
+
+### Inheritance
+
+- [x] inheritance
