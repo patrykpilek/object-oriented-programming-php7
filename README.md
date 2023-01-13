@@ -35,3 +35,7 @@
 ### Final Keyword
 
 - [x] final keyword
+
+### Abstract classes and methods
+
+- [x] abstract classes and methods
