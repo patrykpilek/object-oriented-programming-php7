@@ -27,3 +27,7 @@
 ### Inheritance
 
 - [x] inheritance
+
+### Overriding
+
+- [x] overriding
