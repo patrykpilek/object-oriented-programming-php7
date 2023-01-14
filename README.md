@@ -53,3 +53,4 @@
 
 - [x] static keyword and static properties
 - [x] static methods
+- [x] exercises
