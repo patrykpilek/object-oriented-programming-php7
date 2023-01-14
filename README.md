@@ -58,3 +58,4 @@
 ### Magic methods
 
 - [x] __toString()
+- [x] __set_state()
