@@ -54,3 +54,7 @@
 - [x] static keyword and static properties
 - [x] static methods
 - [x] exercises
+
+### Magic methods
+
+- [x] __toString()
