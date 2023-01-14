@@ -60,3 +60,4 @@
 - [x] __toString()
 - [x] __set_state()
 - [x] __invoke()
+- [x] __debugInfo()
