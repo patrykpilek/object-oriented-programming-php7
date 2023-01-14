@@ -43,3 +43,7 @@
 ### Interfaces
 
 - [x] interfaces
+
+### Constructor and destructor
+
+- [x] Constructor using __construct() magic method
