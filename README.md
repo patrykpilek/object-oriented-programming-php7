@@ -48,3 +48,7 @@
 
 - [x] constructor using __construct() magic method
 - [x] destructor using __destruct() magic method
+
+### Static properties and methods
+
+- [x] static keyword and static properties
