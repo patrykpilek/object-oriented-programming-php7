@@ -54,3 +54,10 @@
 - [x] static keyword and static properties
 - [x] static methods
 - [x] exercises
+
+### Magic methods
+
+- [x] __toString()
+- [x] __set_state()
+- [x] __invoke()
+- [x] __debugInfo()
