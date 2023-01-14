@@ -46,4 +46,5 @@
 
 ### Constructor and destructor
 
-- [x] Constructor using __construct() magic method
+- [x] constructor using __construct() magic method
+- [x] destructor using __destruct() magic method
