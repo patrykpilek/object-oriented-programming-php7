@@ -39,3 +39,7 @@
 ### Abstract classes and methods
 
 - [x] abstract classes and methods
+
+### Interfaces
+
+- [x] interfaces
