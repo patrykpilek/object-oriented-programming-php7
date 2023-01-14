@@ -52,3 +52,4 @@
 ### Static properties and methods
 
 - [x] static keyword and static properties
+- [x] static methods
