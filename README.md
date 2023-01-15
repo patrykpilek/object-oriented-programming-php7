@@ -61,3 +61,7 @@
 - [x] __set_state()
 - [x] __invoke()
 - [x] __debugInfo()
+
+### Errors and exceptions in php
+
+- [x] notices
