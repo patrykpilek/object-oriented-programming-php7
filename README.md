@@ -76,3 +76,4 @@
 - [x] stack trace for exception
 - [x] creating your own custom exceptions
 - [x] try with multiple catch blocks
+- [x] re-throwing exceptions
