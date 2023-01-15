@@ -66,3 +66,4 @@
 
 - [x] notices
 - [x] warnings
+- [x] fatal errors
