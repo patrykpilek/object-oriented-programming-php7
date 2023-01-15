@@ -70,3 +70,4 @@
 - [x] parser errors
 - [x] strict standards notices
 - [x] triggering errors
+- [x] logging your own error messages
