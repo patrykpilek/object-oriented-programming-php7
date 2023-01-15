@@ -61,3 +61,22 @@
 - [x] __set_state()
 - [x] __invoke()
 - [x] __debugInfo()
+
+### Errors and exceptions in php
+
+- [x] notices
+- [x] warnings
+- [x] fatal errors
+- [x] parser errors
+- [x] strict standards notices
+- [x] triggering errors
+- [x] logging your own error messages
+- [x] how to handle errors with error handler
+- [x] try, throw and catch
+- [x] stack trace for exception
+- [x] creating your own custom exceptions
+- [x] try with multiple catch blocks
+- [x] re-throwing exceptions
+- [x] uncaught exceptions
+- [x] top level exception handler
+- [x] the change in error and exception in PHP 7
