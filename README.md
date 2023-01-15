@@ -78,3 +78,4 @@
 - [x] try with multiple catch blocks
 - [x] re-throwing exceptions
 - [x] uncaught exceptions
+- [x] top level exception handler
