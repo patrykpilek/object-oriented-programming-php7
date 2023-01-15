@@ -69,3 +69,4 @@
 - [x] fatal errors
 - [x] parser errors
 - [x] strict standards notices
+- [x] triggering errors
