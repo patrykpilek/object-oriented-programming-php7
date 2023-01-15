@@ -65,3 +65,4 @@
 ### Errors and exceptions in php
 
 - [x] notices
+- [x] warnings
