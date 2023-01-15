@@ -68,3 +68,4 @@
 - [x] warnings
 - [x] fatal errors
 - [x] parser errors
+- [x] strict standards notices
