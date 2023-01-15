@@ -73,3 +73,4 @@
 - [x] logging your own error messages
 - [x] how to handle errors with error handler
 - [x] try, throw and catch
+- [x] stack trace for exception
