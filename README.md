@@ -75,3 +75,4 @@
 - [x] try, throw and catch
 - [x] stack trace for exception
 - [x] creating your own custom exceptions
+- [x] try with multiple catch blocks
