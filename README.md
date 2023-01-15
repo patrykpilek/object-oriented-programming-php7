@@ -79,3 +79,4 @@
 - [x] re-throwing exceptions
 - [x] uncaught exceptions
 - [x] top level exception handler
+- [x] the change in error and exception in PHP 7
