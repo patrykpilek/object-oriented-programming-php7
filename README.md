@@ -71,3 +71,4 @@
 - [x] strict standards notices
 - [x] triggering errors
 - [x] logging your own error messages
+- [x] how to handle errors with error handler
