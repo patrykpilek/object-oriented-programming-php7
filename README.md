@@ -67,3 +67,4 @@
 - [x] notices
 - [x] warnings
 - [x] fatal errors
+- [x] parser errors
