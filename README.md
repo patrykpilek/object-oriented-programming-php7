@@ -84,3 +84,4 @@
 ### Autoloading
 
 - [x] how to register an autoloader function
+- [x] autoloader to autoload namespace classes
