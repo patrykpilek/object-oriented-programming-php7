@@ -94,3 +94,4 @@
 ### Object Cloning
 
 - [x] object cloning
+- [x] shallow copy cloning
