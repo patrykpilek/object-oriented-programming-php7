@@ -98,3 +98,4 @@
 - [x] deep copy cloning using __clone() magic method
 - [x] recursive cloning
 - [x] double linking problem
+- [x] solution deep copy cloning using serialization
