@@ -96,3 +96,4 @@
 - [x] object cloning
 - [x] shallow copy cloning
 - [x] deep copy cloning using __clone() magic method
+- [x] recursive cloning
