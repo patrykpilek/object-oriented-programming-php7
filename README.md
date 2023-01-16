@@ -90,3 +90,7 @@
 
 - [x] serialize() and unserialize()
 - [x] magic methods for serialization __sleep() and __wakeup() 
+
+### Object Cloning
+
+- [x] object cloning
