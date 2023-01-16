@@ -80,3 +80,7 @@
 - [x] uncaught exceptions
 - [x] top level exception handler
 - [x] the change in error and exception in PHP 7
+
+### Autoloading
+
+- [x] how to register an autoloader function
