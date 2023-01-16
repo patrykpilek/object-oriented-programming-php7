@@ -85,3 +85,7 @@
 
 - [x] how to register an autoloader function
 - [x] autoloader to autoload namespace classes
+
+### Object Serialization
+
+- [x] serialize() and unserialize()
