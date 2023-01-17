@@ -105,3 +105,4 @@
 - [x] type hinting
 - [x] type hinting for classes and objects
 - [x] type hinting for interfaces
+- [x] type hinting for self
