@@ -109,3 +109,4 @@
 - [x] type hinting for arrays
 - [x] type hinting for callable
 - [x] type hinting for scalar data types
+- [x] strict scalar type hinting
