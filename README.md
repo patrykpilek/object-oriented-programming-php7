@@ -99,3 +99,7 @@
 - [x] recursive cloning
 - [x] double linking problem
 - [x] solution deep copy cloning using serialization
+
+### Type Hinting
+
+- [x] type hinting
