@@ -107,3 +107,4 @@
 - [x] type hinting for interfaces
 - [x] type hinting for self
 - [x] type hinting for arrays
+- [x] type hinting for callable
