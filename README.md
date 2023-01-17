@@ -108,3 +108,4 @@
 - [x] type hinting for self
 - [x] type hinting for arrays
 - [x] type hinting for callable
+- [x] type hinting for scalar data types
