@@ -99,3 +99,16 @@
 - [x] recursive cloning
 - [x] double linking problem
 - [x] solution deep copy cloning using serialization
+
+### Type Hinting
+
+- [x] type hinting
+- [x] type hinting for classes and objects
+- [x] type hinting for interfaces
+- [x] type hinting for self
+- [x] type hinting for arrays
+- [x] type hinting for callable
+- [x] type hinting for scalar data types
+- [x] strict scalar type hinting
+- [x] type hinting for return types
+- [x] type error exception in PHP7
