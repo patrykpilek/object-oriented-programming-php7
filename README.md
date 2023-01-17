@@ -103,3 +103,4 @@
 ### Type Hinting
 
 - [x] type hinting
+- [x] type hinting for classes and objects
