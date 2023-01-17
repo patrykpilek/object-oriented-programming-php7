@@ -110,3 +110,4 @@
 - [x] type hinting for callable
 - [x] type hinting for scalar data types
 - [x] strict scalar type hinting
+- [x] type hinting for return types
