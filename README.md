@@ -112,3 +112,7 @@
 - [x] strict scalar type hinting
 - [x] type hinting for return types
 - [x] type error exception in PHP7
+
+### Comparing Objects
+
+- [x] object comparison using (==) and (===)
