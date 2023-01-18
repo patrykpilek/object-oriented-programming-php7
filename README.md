@@ -116,3 +116,7 @@
 ### Comparing Objects
 
 - [x] object comparison using (==) and (===)
+
+### Overloading
+
+- [x] property overloading using maic methods (__get, __set, __isset and __unset)
