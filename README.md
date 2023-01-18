@@ -127,3 +127,4 @@
 - [x] php traits
 - [x] precedence
 - [x] multiple traits
+- [x] traits composed from traits
