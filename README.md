@@ -128,3 +128,4 @@
 - [x] precedence
 - [x] multiple traits
 - [x] traits composed from traits
+- [x] abstract and static members of traits
