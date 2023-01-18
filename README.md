@@ -120,3 +120,4 @@
 ### Overloading
 
 - [x] property overloading using maic methods (__get, __set, __isset and __unset)
+- method overloading using magic methods (__call, __callStatic)
