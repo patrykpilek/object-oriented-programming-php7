@@ -120,4 +120,13 @@
 ### Overloading
 
 - [x] property overloading using maic methods (__get, __set, __isset and __unset)
-- method overloading using magic methods (__call, __callStatic)
+- [x] method overloading using magic methods (__call, __callStatic)
+
+### Traits
+
+- [x] php traits
+- [x] precedence
+- [x] multiple traits
+- [x] traits composed from traits
+- [x] abstract and static members of traits
+- [x] trait properties
