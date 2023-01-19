@@ -140,3 +140,4 @@
 ### Object Iteration
 
 - [x] traverse, iterate, iterate using loops
+- [x] object iteration
