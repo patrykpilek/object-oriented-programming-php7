@@ -130,3 +130,9 @@
 - [x] traits composed from traits
 - [x] abstract and static members of traits
 - [x] trait properties
+- 
+### Late Static Binding
+
+- [x] binding, early binding and late binding
+- [x] problem early binding of self keyword
+- [x] solution: late static binding using static keyword
