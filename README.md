@@ -130,3 +130,7 @@
 - [x] traits composed from traits
 - [x] abstract and static members of traits
 - [x] trait properties
+- 
+### Late Static Binding
+
+- [x] binding, early binding and late binding
