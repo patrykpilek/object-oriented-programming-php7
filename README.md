@@ -134,3 +134,4 @@
 ### Late Static Binding
 
 - [x] binding, early binding and late binding
+- [x] problem early binding of self keyword
