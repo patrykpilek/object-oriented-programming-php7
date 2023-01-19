@@ -142,4 +142,5 @@
 - [x] traverse, iterate, iterate using loops
 - [x] object iteration
 - [x] iterator interface
-- [x] iteratoraggregate interface
+- [x] iteratorAggregate interface
+- [x] iterator and iteratorAggregate interface in one plate
