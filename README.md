@@ -136,3 +136,7 @@
 - [x] binding, early binding and late binding
 - [x] problem early binding of self keyword
 - [x] solution: late static binding using static keyword
+
+### Object Iteration
+
+- [x] traverse, iterate, iterate using loops
